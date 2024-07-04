@@ -32,6 +32,7 @@ Run the relevant Tunnel code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` note
 ### Using Ngrok
 1. **Register/Login on [Ngrok](https://ngrok.com/) and get your TOKEN**
 2. **Enter the token to `your-ngrok-token` in relevant Ngrok code blocks**
+
 Run the relevant code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` notebook to start the application via Tunnel.
 
 ## Screenshots
