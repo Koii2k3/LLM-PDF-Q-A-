@@ -31,9 +31,9 @@ Using Google Colab and upload all the `RAG_LLM(Vicuna)_Chainlit.ipynb` and `app.
 Run the relevant Tunnel code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` notebook to start the application via Tunnel.
 ### Using Ngrok
 1. **Register/Login on [Ngrok](https://ngrok.com/) and get your TOKEN**
-2. **Enter the token to <your-ngrok-token> in relevant Ngrok code blocks**
+2. **Enter the token to `your-ngrok-token` in relevant Ngrok code blocks**
 Run the relevant code blocks in the `RAG_LLM(Vicuna)_Chainlit.ipynb` notebook to start the application via Tunnel.
 
 ## Screenshots
-- ![Wait to upload PDF](./data/1.png)
-- ![Result](./data/2.png)
+![Wait to upload PDF](./data/1.png)
+![Result](./data/2.png)
